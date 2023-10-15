@@ -1,0 +1,35 @@
+body {
+    background-color: #E3516E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    background-color: #E3516E;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div {
+    height: 40px;
+    width: 40px;
+  }
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #FADE8B;
+    position: relative;
+    left: 10px;
+    top: 10px;
+  }
+  .yellow_square {
+    background: #FADE8B;
+  }
+  .red_square {
+    border-radius: 65px;
+    color: #FADE8B;
+  }
